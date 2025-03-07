@@ -1,16 +1,11 @@
 # lise_0_1_0
 
-A new Flutter project.
+Users can practice listening to the available listening lessons on the app or create their own listening lessons using audio files available on the device.
 
-## Getting Started
+**Link video demo:** youtu.be/AH1bNt8stN8
+**Technology Utilized:** 
+Flutter: 
+·	Use Hive to store audio file information locally.
+·	Use just_audio to play audio files.
+·	Use Provider to manage application State.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
